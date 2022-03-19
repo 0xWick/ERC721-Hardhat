@@ -13,3 +13,18 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+# Making an NFT in Solidity
+
+Using Openzeppeling contract code of ERC721
+
+# Compiling & Uploading to Rinkeby Testnet (Using Hardhat)
+
+```shell
+
+Alchemy Node
+Rinkeby Network
+Metamask
+Script in Javascript
+
+```
